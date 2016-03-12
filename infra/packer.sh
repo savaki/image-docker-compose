@@ -24,4 +24,5 @@ sudo usermod -aG docker ubuntu
 # install awscli
 #
 sudo pip install --upgrade awscli
+sudo pip install --upgrade docker-compose
 
